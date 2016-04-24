@@ -10,3 +10,4 @@ a = A()
 a.show()
 
 # This book is on how to use C to implement Python
+print ('python version: ', python_version())
