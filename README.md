@@ -5,4 +5,4 @@
 
 #### python syntax sugar
 <!-- - [map and reduce](./map_reduce_eg.py) -->
-- <a target="_blank" href="./map_reduce_eg.py">map and reduce</a>
+<a target="_blank" href="./map_reduce_eg.py">map and reduce</a>
