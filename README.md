@@ -4,5 +4,7 @@
 - Python源码剖析, by Robert Chen
 
 #### python syntax sugar
-- [map and reduce](./map_reduce_eg.py){:target="_blank"}
-<!-- <a target="_blank" href="./map_reduce_eg.py">map and reduce</a> -->
+<!-- - [map and reduce](./map_reduce_eg.py) -->
+- <a target="_blank" href="./map_reduce_eg.py">map and reduce</a>
+- <a target="_blank" href="https://www.google.com/">map and reduce</a>
+
